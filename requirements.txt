@@ -1,0 +1,10 @@
+youtube-search-python
+youtube-transcript-api
+fastapi[all]
+openai
+python-dotenv
+pydantic==1.*
+langchain
+faiss-cpu
+tiktoken
+streamlit
