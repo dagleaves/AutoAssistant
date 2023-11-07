@@ -1,3 +1,6 @@
+# FAISS Index
+faiss_index/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
